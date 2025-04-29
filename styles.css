@@ -1,0 +1,26 @@
+body{background-color: f1f1f1;
+color: black;
+font-size: 17px;
+font-weight: normal;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.avatare {
+    @media (max-with: 700px)
+width: 200px;
+border-radius: 28px;
+box-shadow: 4px 4px 14px rgba(0,0,0,0.25);
+}
+/* .divan p {color: #868686;
+text-decoration: underline;}
+.divi{background-color: gray;
+padding: 2px;
+border: 5px solid gainsboro;
+margin: normal;}
+.imigrate{} */
+.card{
+padding: 5px 8px;
+background:grey ;
+border-radius: 20px;
+}
+/* .sosal{margin: auto;} */
+/* *{color:black;} */
+
